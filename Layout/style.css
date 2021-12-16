@@ -1,0 +1,36 @@
+article {
+
+    background-color: rgb(255, 236, 131);
+    
+
+}
+
+body {
+
+    background-color: rgb(202, 202, 202);
+}
+
+img {
+
+    width: 300px;
+    height: 200px;
+
+}
+
+.flex-container {
+
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+}
+
+main>div{
+    width: 80%;
+}
