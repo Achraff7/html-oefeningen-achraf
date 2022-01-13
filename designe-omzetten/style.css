@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    background-color: black;
+}
+.Navigatie {
+    list-style: none;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    border: 0px solid black; 
+    padding: 0px;
+}
+
+.Navigatie a {
+    color: white;
+    
+}
+
+.navigatie {
+    list-style: none;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.navigatie a {
+    color: white;
+}
+
+img {
+    width: 1500px;
+}
+
+.topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    opacity: 50%;
+  }
+  
