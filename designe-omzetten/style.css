@@ -6,6 +6,12 @@ h1 {
     color: red;
     background-color: black;
 }
+
+h2 {
+color: white;
+opacity: 50%;
+}
+
 .Navigatie {
     list-style: none;
     background-color: black;
@@ -46,3 +52,14 @@ img {
     opacity: 50%;
   }
   
+  .pictogram {
+      text-align: right;
+
+  }
+  .title {
+      color: white;
+      opacity: 50%;
+      margin-right: 77px;
+     font-size: 40px;
+    
+  }
